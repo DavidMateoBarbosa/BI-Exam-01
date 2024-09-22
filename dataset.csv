@@ -1,0 +1,4 @@
+IdCliente;Ciudad;Antiguedad;PlanInternacional;BuzonDeVoz;PromMinUsadosDia;PromNumLlamadasDia;PromMinUsadosTarde;PromNumLlamadasTarde;PromMinUsadosNoche;PromNumLlamadasNoche
+1;Bogotá;86;Si;No;70.7;125;211.0;113;174.6;107
+2;Cali;165;No;Si;242.9;126;209.8;65;228.4;126
+3;Medellin;70;No;Si;222.8;114;215.9;113;223.5;122
